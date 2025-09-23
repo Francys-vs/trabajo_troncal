@@ -21,12 +21,12 @@
     "chileno": "Iván Zamorano",
     "goles": 34,
     "partidos": 69,
-    "fotos":
+    "fotos": "https://raw.githubusercontent.com/NikoGarrido/trabajo_troncal/refs/heads/main/MK%20EJERCICIO/4.jpg",
   },
   {
     "chileno": "Arturo Vidal",
     "goles": 34,
     "partidos": 144,
-    "fotos":
+    "fotos": "https://raw.githubusercontent.com/NikoGarrido/trabajo_troncal/refs/heads/main/MK%20EJERCICIO/5.jpg",
   }
 ]
