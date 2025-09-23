@@ -1,5 +1,4 @@
 # trabajo_troncal MK
-
 [
   {
     "title": "Mortal Kombat",
@@ -182,5 +181,7 @@
     "platform": "",
     "ports": "",
     "notes": "A compilation of Mortal Kombat, Mortal Kombat II, Mortal Kombat 3, Ultimate Mortal Kombat 3, Mortal Kombat Trilogy, Mortal Kombat Mythologies: Sub-Zero, Mortal Kombat 4, Mortal Kombat: Special Forces, Mortal Kombat Advance, Mortal Kombat: Deadly Alliance and Mortal Kombat: Tournament Edition."
+  }
+]mpilation of Mortal Kombat, Mortal Kombat II, Mortal Kombat 3, Ultimate Mortal Kombat 3, Mortal Kombat Trilogy, Mortal Kombat Mythologies: Sub-Zero, Mortal Kombat 4, Mortal Kombat: Special Forces, Mortal Kombat Advance, Mortal Kombat: Deadly Alliance and Mortal Kombat: Tournament Edition."
   }
 ]
