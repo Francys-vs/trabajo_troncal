@@ -1,4 +1,4 @@
-# trabajo_troncal MK
+# trabajo_troncal
 [
   {
     "title": "Mortal Kombat",
